@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  color: config('colors.grey-dark');
+  font-family: config('fonts.sans');
+  font-weight: config('fontWeights.light');
+}

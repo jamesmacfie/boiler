@@ -1,0 +1,7 @@
+{
+  "short_name": "Boiler",
+  "name": "NextJS Express Boilerplate",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape"
+}
