@@ -7,3 +7,11 @@ I wanted a simple Boilerplate with some tech decisions I've settled on lately. C
 - Tailwind CSS
 - CSS Modules
 - Express
+
+Todo
+
+- [ ] Formik
+- [ ] Yup
+- [ ] Account info (Context etc)
+- [ ] Non-relative imports
+- [ ] SVG example
